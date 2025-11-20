@@ -1,1 +1,1 @@
-# JavaRush
+# Hello, JavaRush!
